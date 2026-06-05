@@ -13,6 +13,7 @@ public class App {
         int positivos = 0;
         int negativos = 0;
         int ceros = 0;
+        //inicio del sistema 
 
         System.out.println("PROGRAMA PARA ANALIZAR 15 NUMEROS");
 
