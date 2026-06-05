@@ -23,6 +23,7 @@ public class App {
 
             System.out.println("====================");
             System.out.println("Ingrese el numero #" + i);
+            System.out.println("====================");
             numero = sc.nextInt();
 
             // POSITIVO, NEGATIVO O CERO
