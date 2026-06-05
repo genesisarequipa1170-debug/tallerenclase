@@ -13,5 +13,6 @@ public class App {
         System.out.println("gene");
         System.out.println("chen");
         System.out.println("issac gay");
+        System.out.println("genesis");
     }
 }
