@@ -57,7 +57,7 @@ public class App {
         System.out.println("Ceros: " + ceros);
         // agradecimiento por usar el programa 
         System.out.println("muchas gracias por utlizar el programa ");
-        
+        System.out.println("fin del programa ");
 
         sc.close();
         // FIN DEL PROGRAMA
