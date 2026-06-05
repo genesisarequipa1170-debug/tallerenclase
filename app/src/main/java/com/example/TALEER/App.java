@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        // Ingresar variables
         int numero;
         int positivos = 0;
         int negativos = 0;
