@@ -18,7 +18,7 @@ public class App {
         //inicio del sistema 
 
         System.out.println("PROGRAMA PARA ANALIZAR 15 NUMEROS");
-
+        // analisis de numeros
         for(int i = 1; i <= 15; i++) {
 
             System.out.println("====================");
