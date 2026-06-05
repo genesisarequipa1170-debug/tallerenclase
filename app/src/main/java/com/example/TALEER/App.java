@@ -50,6 +50,7 @@ public class App {
         System.out.println("====================");
         System.out.println("RESULTADOS FINALES");
         System.out.println("====================");
+        // numeros positivos 
 
         System.out.println("Positivos: " + positivos);
         System.out.println("Negativos: " + negativos);
