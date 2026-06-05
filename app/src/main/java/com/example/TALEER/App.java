@@ -54,7 +54,9 @@ public class App {
         System.out.println("Positivos: " + positivos);
         System.out.println("Negativos: " + negativos);
         System.out.println("Ceros: " + ceros);
+        // agradecimiento por usar el programa 
         System.out.println("muchas gracias por utlizar el programa ");
+        
 
         sc.close();
         // FIN DEL PROGRAMA
