@@ -56,5 +56,6 @@ public class App {
         System.out.println("Ceros: " + ceros);
 
         sc.close();
+        // FIN DEL PROGRAMA
     }
 }
