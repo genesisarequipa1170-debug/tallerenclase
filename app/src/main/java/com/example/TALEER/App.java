@@ -12,5 +12,6 @@ public class App {
         System.out.println(new App().getGreeting());
         System.out.println("gene");
         System.out.println("chen");
+        System.out.println("issac gay");
     }
 }
